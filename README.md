@@ -9,4 +9,4 @@ note: mods included in this collection use open permissions. view a mod's page f
 
 - Burryaga - [Burryaga's Blooming Biomes](https://www.nexusmods.com/nomanssky/mods/2057)
 
-i may include temporary PAKs while playing the mod, but i won't maintain them. instead, update them yourself using EXML and Plumgen (as described above).
+i may include temporary PAKs while playing the mod, but i won't maintain them.
