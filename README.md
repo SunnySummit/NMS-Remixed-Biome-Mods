@@ -8,3 +8,5 @@ to use one of these mods, download a selected 'EXMLs' folder (e.g. using [Downlo
 note: mods included in this collection use open permissions. view a mod's page for details about their permissions:
 
 - Burryaga - [Burryaga's Blooming Biomes](https://www.nexusmods.com/nomanssky/mods/2057)
+
+i may include temporary PAKs while playing the mod, but I won't maintain them. instead, update them yourself using EXML and Plumgen as described above.
