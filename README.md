@@ -8,7 +8,6 @@ this is my collection of biome mods i've remixed to newer versions of NMS using 
 i'm making this because:
 1. it's fun
 2. i imagine most modders don't want their work to be forgotten
-3. i want the NMS biome modding scene to grow because i. <3. exploration.
 
 ---
 
