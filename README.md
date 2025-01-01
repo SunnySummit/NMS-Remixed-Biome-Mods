@@ -19,9 +19,9 @@ to use one of these mods, download a selected 'EXMLs' folder (e.g. using [Downlo
 
 ---
 
-note 1: mods included in this collection are either very old or use open permissions. if a mod author doesn't want me to share a remixed version of their mod, just say so and i'll take it down.
+- note 1: mods included in this collection are either very old or use open permissions. if a mod author doesn't want me to share a remixed version of their mod, just say so and i'll take it down.
 
-note 2: if you're confused or concerned about something, feel free to open an issue.
+- note 2: if you're confused or concerned about something, feel free to open an issue.
 
 ---
 
