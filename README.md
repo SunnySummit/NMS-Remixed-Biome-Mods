@@ -1,13 +1,13 @@
-# Plumgen Remixed Biome Mods
+# No Man's Sky - Remixed Biome Mods
 remixed legacy no man's sky biome mods
 
-this is my collection of biome mods i've remixed and/or updated to newer versions of no man's sky using my app, [Plumgen](https://github.com/SunnySummit/PLUMGEN).
+this is my collection of biome mods i've remixed/updated to newer versions of no man's sky using my program, [Plumgen](https://github.com/SunnySummit/PLUMGEN).
 
 i'm making this because:
 A) it's fun.
-B) i figure modders don't want their work to be forgotten.
+B) i imagine most modders don't want their work to be forgotten.
 
-to use one of these mods, download a selected 'EXMLs' folder (e.g. using [Download Directory](https://download-directory.github.io/)), then locate and import each 'BIOMES' folder** via. Plumgen, then export. this updates the mod so you can play legacy mods in the newest versions of no man's sky. :D
+to use one of these mods, download a selected 'EXMLs' folder (e.g. using [Download Directory](https://download-directory.github.io/)), then locate and import each 'BIOMES' folder** via. Plumgen, then export. this updates the mod so you can play legacy mods in the newest versions of no man's sky. more info on how to import [in this youtube video](https://youtu.be/zzaeyRAobOQ?t=450). simply click export after importing.
 
 **if you only see 'Biomes', search deeper in the folder structure for 'BIOMES'
 
