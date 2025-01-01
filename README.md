@@ -31,4 +31,4 @@ view a mod's page for more details about the mod:
 
 ---
 
-finally, i might include PAK files for easy modding, mainly for people coming from youtube who want to quickly try out a new remixed mod. i don't have time, however, to update or maintain them.
+finally, i might include PAK files for easy modding, mainly for people coming from youtube who want to quickly try out a new remixed mod. i will not, however, update or maintain PAKs.
