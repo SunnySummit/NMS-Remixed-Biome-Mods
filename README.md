@@ -1,7 +1,7 @@
 # No Man's Sky - Remixed Biome Mods
 remixed legacy no man's sky biome mods
 
-this is my collection of biome mods i've remixed/updated to newer versions of no man's sky using my program, [Plumgen](https://github.com/SunnySummit/PLUMGEN).
+this is my collection of biome mods i've remixed to newer versions of NMS using my program, [Plumgen](https://github.com/SunnySummit/PLUMGEN).
 
 ---
 
