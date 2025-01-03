@@ -11,9 +11,10 @@ i'm making this because:
 
 ---
 
-to use one of these mods, download a selected 'EXMLs' folder (e.g. using [Download Directory](https://download-directory.github.io/)), then locate and import each 'BIOMES' folder** via. Plumgen, then export. this updates the mod so you can play legacy mods in the newest versions of no man's sky. more info on how to import [in this youtube video](https://youtu.be/zzaeyRAobOQ?t=450).
+to use one of these mods, download a selected 'EXMLs' folder (e.g. using [Download Directory](https://download-directory.github.io/)), then locate and import each 'BIOMES' folder* via. Plumgen, then export. this updates the mod so you can play legacy mods in the newest versions of no man's sky. more info on how to import [in this youtube video](https://youtu.be/zzaeyRAobOQ?t=450).
 
-**if you only see 'Biomes', search deeper in the folder structure for 'BIOMES'
+*if you only see 'Biomes', search deeper in the folder structure for 'BIOMES'
+*some mods contain multiple 'BIOMES' subfolders. Plumgen can import multiple BIOMES folder if you simply add a number at the end, like 'BIOMES2' which i've already done for you. :)
 
 ---
 
@@ -22,10 +23,6 @@ to use one of these mods, download a selected 'EXMLs' folder (e.g. using [Downlo
 
 ---
 
-view a mod's page for more details about the mod:
+view a mod's page for more info:
 
 - Ramster0 - [Freeform Planet Generation Reborn](https://www.nexusmods.com/nomanssky/mods/2797)
-
----
-
-finally, i might include PAK files (in folders) for easy modding, mainly for people coming from youtube who want to quickly try out a new remixed mod. i will not, however, update or maintain PAKs. you can do so using the steps mentioned above :)
