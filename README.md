@@ -24,6 +24,6 @@ to use one of these mods, download a selected folder (e.g. using [Download Direc
 
 ---
 
-view a mod's page for more info:
+mod pages:
 
 - Ramster0 - [Freeform Planet Generation Reborn](https://www.nexusmods.com/nomanssky/mods/2797)
