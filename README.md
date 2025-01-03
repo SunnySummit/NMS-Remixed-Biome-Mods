@@ -20,6 +20,7 @@ to use one of these mods, download a selected 'EXMLs' folder (e.g. using [Downlo
 
 - note 1: if a mod author wants me to remove a remixed version of their mod, just say so.
 - note 2: open an issue if you're confused or concerned about something.
+- note 3: i may periodically update the exml, so be sure to check back for any updates. :)
 
 ---
 
