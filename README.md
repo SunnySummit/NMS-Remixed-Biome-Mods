@@ -15,7 +15,7 @@ to use one of these mods, download a selected 'EXMLs' folder (e.g. using [Downlo
 
 *if you only see 'Biomes', search deeper in the folder structure for 'BIOMES'
 
-*some mods contain multiple 'BIOMES' subfolders. Plumgen can import multiple BIOMES folder if you simply add a number at the end, like 'BIOMES2' which i've already done for you. :)
+*some mods contain multiple 'BIOMES' subfolders. Plumgen can import multiple 'BIOMES' folders if you simply add a number at the end of one, like 'BIOMES2' which i've already done for you. :)
 
 ---
 
