@@ -11,10 +11,10 @@ i'm making this because:
 
 ---
 
-to use one of these mods, download a selected 'EXMLs' folder (e.g. using [Download Directory](https://download-directory.github.io/)), then locate and import each 'BIOMES' folder* via. Plumgen, then export. this updates the mod so you can play legacy mods in the newest versions of no man's sky. more info on how to import [in this youtube video](https://youtu.be/zzaeyRAobOQ?t=450).
+to use one of these mods, download a selected folder (e.g. using [Download Directory](https://download-directory.github.io/)), then locate and import each 'BIOMES' folder* via. Plumgen, then export. this updates the mod so you can play legacy mods in the newest versions of no man's sky. more info on how to import [in this youtube video](https://youtu.be/zzaeyRAobOQ?t=450).
 
 - *if you only see 'Biomes', search deeper in the folder structure for 'BIOMES'
-- *some mods contain multiple 'BIOMES' subfolders. Plumgen can import multiple 'BIOMES' folders if you simply add a number at the end of one, like 'BIOMES2' which i've already done for you. :)
+- *some mods contain multiple 'BIOMES' folders. you can import multiple 'BIOMES' folders if you simply add a number at the end of one, like 'BIOMES2' which i've already done for you. :)
 
 ---
 
