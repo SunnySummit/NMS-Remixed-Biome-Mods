@@ -1,0 +1,1396 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--File created using MBINCompiler version (5.29.0.1)--><Data template="GcBiomeData">
+  <Property name="TextureFile" value="METADATA/SIMULATION/SOLARSYSTEM/TEXTURES/MOON.MBIN"/>
+  <Property name="OverlayFile" value="METADATA/SIMULATION/SOLARSYSTEM/OVERLAYS/TEST.MBIN"/>
+  <Property name="TileTypesFile" value="METADATA/SIMULATION/SOLARSYSTEM/COLOURS/BASETILETYPES.MBIN"/>
+  <Property name="ColourPaletteFile" value="METADATA/SIMULATION/SOLARSYSTEM/COLOURS/BASECOLOURPALETTES.MBIN"/>
+  <Property name="LegacyColourPaletteFile" value=""/>
+  <Property name="MiningSubstance1" value="GcMiningSubstanceData.xml">
+    <Property name="SubstanceCategory" value="GcRealitySubstanceCategory.xml">
+      <Property name="SubstanceCategory" value="Fuel"/>
+    </Property>
+    <Property name="UseRarity" value="True"/>
+    <Property name="Rarity" value="GcRarity.xml">
+      <Property name="Rarity" value="Common"/>
+    </Property>
+  </Property>
+  <Property name="MiningSubstance2" value="GcMiningSubstanceData.xml">
+    <Property name="SubstanceCategory" value="GcRealitySubstanceCategory.xml">
+      <Property name="SubstanceCategory" value="Fuel"/>
+    </Property>
+    <Property name="UseRarity" value="True"/>
+    <Property name="Rarity" value="GcRarity.xml">
+      <Property name="Rarity" value="Common"/>
+    </Property>
+  </Property>
+  <Property name="MiningSubstance3" value="GcMiningSubstanceData.xml">
+    <Property name="SubstanceCategory" value="GcRealitySubstanceCategory.xml">
+      <Property name="SubstanceCategory" value="Fuel"/>
+    </Property>
+    <Property name="UseRarity" value="True"/>
+    <Property name="Rarity" value="GcRarity.xml">
+      <Property name="Rarity" value="Common"/>
+    </Property>
+  </Property>
+  <Property name="FuelMultiplier" value="1"/>
+  <Property name="Water" value="GcPlanetWaterData.xml">
+    <Property name="ColourIndex" value="0"/>
+    <Property name="WaterStrength" value="0.1"/>
+    <Property name="WaterColourStrength" value="0.1"/>
+    <Property name="WaterMultiplyStrength" value="0.1"/>
+    <Property name="WaterMultiplyMax" value="0.1"/>
+    <Property name="WaterRoughness" value="0"/>
+    <Property name="FresnelPower" value="5"/>
+    <Property name="FresnelMin" value="0.2"/>
+    <Property name="FresnelMax" value="0.8"/>
+    <Property name="Wave1Scale" value="0.001"/>
+    <Property name="Wave1Height" value="1"/>
+    <Property name="Wave1Speed" value="1"/>
+    <Property name="Wave2Scale" value="0.002"/>
+    <Property name="Wave2Height" value="1"/>
+    <Property name="Wave2Speed" value="1"/>
+    <Property name="NormalMap1Scale" value="0"/>
+    <Property name="NormalMap1Speed" value="0"/>
+    <Property name="NormalMap2Scale" value="0"/>
+    <Property name="NormalMap2Speed" value="0"/>
+    <Property name="FoamFadeHeight" value="10"/>
+    <Property name="Foam1Scale" value="0"/>
+    <Property name="Foam1Speed" value="0"/>
+    <Property name="Foam2Scale" value="0"/>
+    <Property name="Foam2Speed" value="0"/>
+    <Property name="HeavyAir" value="GcPlanetHeavyAirData.xml">
+      <Property name="Filename" value=""/>
+      <Property name="Colours">
+        <Property value="GcHeavyAirColourData.xml">
+          <Property name="Colour1" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+          <Property name="Colour2" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+          <Property name="ExtremeColour1" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+          <Property name="ExtremeColour2" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+        </Property>
+        <Property value="GcHeavyAirColourData.xml">
+          <Property name="Colour1" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+          <Property name="Colour2" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+          <Property name="ExtremeColour1" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+          <Property name="ExtremeColour2" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+        </Property>
+        <Property value="GcHeavyAirColourData.xml">
+          <Property name="Colour1" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+          <Property name="Colour2" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+          <Property name="ExtremeColour1" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+          <Property name="ExtremeColour2" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+        </Property>
+        <Property value="GcHeavyAirColourData.xml">
+          <Property name="Colour1" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+          <Property name="Colour2" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+          <Property name="ExtremeColour1" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+          <Property name="ExtremeColour2" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+        </Property>
+        <Property value="GcHeavyAirColourData.xml">
+          <Property name="Colour1" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+          <Property name="Colour2" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+          <Property name="ExtremeColour1" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+          <Property name="ExtremeColour2" value="Colour.xml">
+            <Property name="R" value="1"/>
+            <Property name="G" value="1"/>
+            <Property name="B" value="1"/>
+            <Property name="A" value="1"/>
+          </Property>
+        </Property>
+      </Property>
+    </Property>
+  </Property>
+  <Property name="ExternalObjectLists">
+    <Property value="GcExternalObjectListOptions.xml">
+      <Property name="Name" value="PLUMGEN_STUFF"/>
+      <Property name="ResourceHint" value=""/>
+      <Property name="ResourceHintIcon" value=""/>
+      <Property name="Probability" value="1"/>
+      <Property name="SeasonalProbabilityOverride" value="1"/>
+      <Property name="TileType" value="GcTerrainTileType.xml">
+        <Property name="TileType" value="Base"/>
+      </Property>
+      <Property name="AllowLimiting" value="False"/>
+      <Property name="ChooseUsingLifeLevel" value="False"/>
+      <Property name="Options">
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_3_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_4_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_8_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_9_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_10_BARREN_WEIRD_INDUSTRIAL.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_14_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_18_LUSH_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_21_DESOLATE_WEIRD_LIVINGSHIP.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_23_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_24_RADIOACTIVE_WEIRD_LIVINGSHIP_BARREN_INDUSTRIAL_IRRADIATED.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_25_WEIRD_BARREN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_27_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_28_WEIRD_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_30_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_31_WEIRD_DEAD_LUSH_HUGE.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_32_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_33_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_35_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_36_BARREN_INDUSTRIAL_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_37_WEIRD_HUGE.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_39_INDUSTRIAL_SCORCHED_BARREN_TOXIC_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_40_FROZEN_WEIRD_LIVINGSHIP.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_42_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_44_FROZEN_WEIRD_INDUSTRIAL_SCORCHED_TOXIC.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_47_WEIRD_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_48_BARREN_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_49_LIVINGSHIP_WEIRD_SCORCHED_LUSH_NOXIOUS.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_50_WEIRD_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_51_SWAMP_DEAD_FROZEN_LIVINGSHIP_WEIRD_INDUSTRIAL.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_52_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_57_BARREN_INDUSTRIAL_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_65_WEIRD_LUSH_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_67_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_71_DEAD_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_72_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_75_DEAD_LAVA_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_76_LUSH_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_78_FROZEN_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_79_WEIRD_LUSH.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_82_LIVINGSHIP_WEIRD_SCORCHED_IRRADIATED.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_85_WEIRD_HUGE_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_89_WEIRD_HUGE.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_93_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_97_INDUSTRIAL_BURNT_FROZEN_NOXIOUS_WEIRD_TOXIC_SCORCHED.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_99_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_100_WEIRD_HUGE.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_101_WEIRD_LUSH_HUGE_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_102_WEIRD_HUGE_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_105_WEIRD_HUGE.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_107_SWAMP_WEIRD_BURNT_LUSH.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_109_DEAD_LAVA_TOXIC_BARREN_WEIRD_LUSH.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_110_DEAD_LAVA_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_111_DEAD_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_115_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_118_WEIRD_HUGE.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_119_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_120_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_123_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_124_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_125_BARREN_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_127_BURNT_LIVINGSHIP_WEIRD_INDUSTRIAL.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_128_BARREN_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_129_WEIRD_RADIOACTIVE_TOXIC.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_130_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_132_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_133_DEAD_SWAMP_INDUSTRIAL_LIVINGSHIP_WEIRD_BARREN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_136_WEIRD_LUSH.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_137_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_138_FROZEN_WEIRD_LIVINGSHIP.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_141_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_146_WEIRD_HUGE.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_150_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_151_FROZEN_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_153_FROZEN_WEIRD_LIVINGSHIP.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_154_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_156_WEIRD_HUGE.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_158_WEIRD_LUSH.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_159_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_160_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_161_FROZEN_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_163_WEIRD_HUGE_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_169_WEIRD_BARREN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_170_WEIRD_BARREN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_172_WEIRD_HUGE_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_173_WEIRD_INDUSTRIAL_LUSH_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_174_WEIRD_LUSH_FROZEN_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_175_WEIRD_HUGE.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_178_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_180_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_181_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_183_DEAD_SWAMP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_184_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_185_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_188_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_191_DEAD_LAVA_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_192_DEAD_SWAMP_LAVA_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_193_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_194_FROZEN_INDUSTRIAL_LIVINGSHIP_WEIRD_TOXIC.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_196_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_197_LUSH_LIVINGSHIP_WEIRD_FLORAL_SCORCHED_BARREN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_198_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_199_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_201_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_202_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_203_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_205_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_206_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_213_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_214_DEAD_SWAMP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_215_LAVA_DEAD_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_216_DEAD_LAVA_WEIRD_SWAMP.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_217_FROZEN_WEIRD_LIVINGSHIP.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_219_FROZEN_WEIRD_LIVINGSHIP.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_220_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_221_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_223_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_226_IRRADIATED_WEIRD_HUGE_FROZEN_LIVINGSHIP_BURNT.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_227_WEIRD_HUGE_BARREN_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_228_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_229_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_231_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_234_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_235_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_236_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_239_WEIRD_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_240_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_241_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_245_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_246_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_251_SWAMP_INDUSTRIAL_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_252_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_253_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_254_DEAD_SWAMP_FROZEN_LIVINGSHIP_WEIRD_BARREN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_255_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_256_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_257_SWAMP_DEAD_LUSH_WEIRD_BARREN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_258_DEAD_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_259_FROZEN_WEIRD_LUSH_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_260_WEIRD_BARREN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_261_DEAD_SWAMP_WEIRD_LAVA.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_263_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_264_FROZEN_WEIRD_LIVINGSHIP.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_265_WEIRD_LAVA_NOXIOUS.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_267_WEIRD_BARREN_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_268_DEAD_LAVA_SWAMP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_270_FROZEN_WEIRD_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_276_WEIRD_BURNT_INDUSTRIAL.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_277_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_279_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_283_WEIRD_HUGE.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_285_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_286_DEAD_SWAMP_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_287_LIVINGSHIP_WEIRD_FROZEN_BARREN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_289_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_292_FROZEN_BARREN_DEAD_WEIRD_DESOLATE_INDUSTRIAL.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_293_LUSH_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_294_DEAD_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_297_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_299_DEAD_LAVA_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_301_WEIRD_RADIOACTIVE_SCORCHED_LIVINGSHIP_INDUSTRIAL_TOXIC_IRRADIATED.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_305_FROZEN_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_307_WEIRD_FROZEN_BARREN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_308_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_309_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_311_WEIRD_LUSH.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_312_WEIRD_HUGE_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_313_WEIRD_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_314_WEIRD_BARREN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_318_FROZEN_WEIRD_LIVINGSHIP.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_320_WEIRD_HUGE_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_321_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_322_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_326_DEAD_LAVA_SWAMP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_331_WEIRD_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_332_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_335_WEIRD_LIVINGSHIP_INDUSTRIAL_SUBZERO_TOXIC.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_336_WEIRD_LUSH.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_337_SWAMP_DEAD_LAVA_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_338_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_339_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_340_SCORCHED_HUGE_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_342_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_348_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_352_LUSH_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_354_WEIRD_BARREN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_356_FROZEN_BARREN_LIVINGSHIP_WEIRD_BURNT.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_357_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_358_FROZEN_LIVINGSHIP_WEIRD_INDUSTRIAL.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_361_BARREN_WEIRD_TOXIC_RADIOACTIVE_FROZEN_LIVINGSHIP.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_363_SUBZERO_RADIOACTIVE_LIVINGSHIP_WEIRD_IRRADIATED.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_364_BARREN_LAVA_NOXIOUS_WEIRD_SUBZERO_IRRADIATED_RADIOACTIVE.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_365_WEIRD_BARREN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_366_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_368_BARREN_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_369_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_370_DEAD_WEIRD_SWAMP_LAVA.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_371_WEIRD_BARREN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_372_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_373_WEIRD_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_374_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_376_BARREN_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_377_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_378_LIVINGSHIP_WEIRD_BARREN_RADIOACTIVE_NOXIOUS_IRRADIATED_INDUSTRIAL.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_380_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_381_FROZEN_WEIRD_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_383_BARREN_LIVINGSHIP_WEIRD_TOXIC.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_385_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_386_BARREN_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_389_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_390_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_392_FROZEN_WEIRD_HUGE.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_393_LUSH_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_394_WEIRD_LUSH_BARREN_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_397_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_398_DESOLATE_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_400_LIVINGSHIP_WEIRD_SCORCHED_SUBZERO.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_401_WEIRD_LUSH.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_402_LUSH_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_404_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_406_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_409_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_410_LIVINGSHIP_WEIRD_HUGE_TOXIC.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_411_WEIRD_LIVINGSHIP.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_412_WEIRD_LUSH.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_413_WEIRD_LUSH.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_414_WEIRD_SWAMP_LAVA_SUBZERO_INDUSTRIAL_NOXIOUS.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_415_WEIRD_HUGE.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_416_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_417_DEAD_LAVA_SWAMP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_418_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_422_WEIRD_FROZEN_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_424_FROZEN_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_427_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_428_DEAD_SWAMP_LIVINGSHIP_WEIRD_NOXIOUS.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_429_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_433_FROZEN_INDUSTRIAL_DEAD_WEIRD_RADIOACTIVE_TOXIC_IRRADIATED_SUBZERO.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_434_WEIRD_HUGE_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_436_LUSH_SWAMP_FROZEN_SCORCHED_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_440_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_442_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_444_BARREN_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_445_DEAD_LAVA_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_449_WEIRD_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_451_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_452_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_453_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_456_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_457_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_461_WEIRD_HUGE.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_462_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_463_WEIRD_HUGE_FROZEN_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_464_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_465_SWAMP_LIVINGSHIP_WEIRD_RADIOACTIVE_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_466_FROZEN_LIVINGSHIP_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_467_DEAD_WEIRD_LAVA_HUGE.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_471_WEIRD_HUGE_BARREN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_473_DEAD_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_476_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_479_LUSH_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_481_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_485_LAVA_SWAMP_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_486_WEIRD_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_488_LIVINGSHIP_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_489_WEIRD_HUGE_FROZEN_DEAD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_490_WEIRD_LUSH_HUGE.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_491_DEAD_LAVA_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_493_DEAD_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_495_LUSH_FROZEN_LIVINGSHIP_WEIRD_TOXIC.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_496_WEIRD_FROZEN.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_497_DEAD_SWAMP_LAVA_WEIRD.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_498_WEIRD_FROZEN_HUGE.MBIN"/>
+        </Property>
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_500_FROZEN_WEIRD.MBIN"/>
+        </Property>
+      </Property>
+    </Property>
+    <Property value="GcExternalObjectListOptions.xml">
+      <Property name="Name" value="PLUMGEN_STUFF"/>
+      <Property name="ResourceHint" value=""/>
+      <Property name="ResourceHintIcon" value=""/>
+      <Property name="Probability" value="1"/>
+      <Property name="SeasonalProbabilityOverride" value="1"/>
+      <Property name="TileType" value="GcTerrainTileType.xml">
+        <Property name="TileType" value="Base"/>
+      </Property>
+      <Property name="AllowLimiting" value="False"/>
+      <Property name="ChooseUsingLifeLevel" value="False"/>
+      <Property name="Options">
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/CRYSTALS/FULL.MBIN"/>
+        </Property>
+      </Property>
+    </Property>
+    <Property value="GcExternalObjectListOptions.xml">
+      <Property name="Name" value="PLUMGEN_STUFF"/>
+      <Property name="ResourceHint" value=""/>
+      <Property name="ResourceHintIcon" value=""/>
+      <Property name="Probability" value="1"/>
+      <Property name="SeasonalProbabilityOverride" value="1"/>
+      <Property name="TileType" value="GcTerrainTileType.xml">
+        <Property name="TileType" value="Base"/>
+      </Property>
+      <Property name="AllowLimiting" value="False"/>
+      <Property name="ChooseUsingLifeLevel" value="False"/>
+      <Property name="Options">
+        <Property value="VariableSizeString.xml">
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/OBJECTS/PLANT/DEADPLANETS.MBIN"/>
+        </Property>
+      </Property>
+    </Property>
+  </Property>
+  <Property name="WeatherOptions">
+    <Property name="Yellow" value="GcWeatherWeightings.xml">
+      <Property name="WeatherWeightings">
+        <Property name="Clear" value="1"/>
+        <Property name="Dust" value="0"/>
+        <Property name="Humid" value="0"/>
+        <Property name="Snow" value="0"/>
+        <Property name="Toxic" value="0"/>
+        <Property name="Scorched" value="0"/>
+        <Property name="Radioactive" value="0"/>
+        <Property name="RedWeather" value="0"/>
+        <Property name="GreenWeather" value="0"/>
+        <Property name="BlueWeather" value="0"/>
+        <Property name="Swamp" value="0"/>
+        <Property name="Lava" value="0"/>
+        <Property name="Bubble" value="0"/>
+        <Property name="Weird" value="2"/>
+        <Property name="Fire" value="0"/>
+        <Property name="ClearCold" value="0"/>
+      </Property>
+    </Property>
+    <Property name="Green" value="GcWeatherWeightings.xml">
+      <Property name="WeatherWeightings">
+        <Property name="Clear" value="1"/>
+        <Property name="Dust" value="0"/>
+        <Property name="Humid" value="0"/>
+        <Property name="Snow" value="0"/>
+        <Property name="Toxic" value="0"/>
+        <Property name="Scorched" value="0"/>
+        <Property name="Radioactive" value="0"/>
+        <Property name="RedWeather" value="0"/>
+        <Property name="GreenWeather" value="0"/>
+        <Property name="BlueWeather" value="0"/>
+        <Property name="Swamp" value="0"/>
+        <Property name="Lava" value="0"/>
+        <Property name="Bubble" value="0"/>
+        <Property name="Weird" value="2"/>
+        <Property name="Fire" value="0"/>
+        <Property name="ClearCold" value="0"/>
+      </Property>
+    </Property>
+    <Property name="Blue" value="GcWeatherWeightings.xml">
+      <Property name="WeatherWeightings">
+        <Property name="Clear" value="1"/>
+        <Property name="Dust" value="0"/>
+        <Property name="Humid" value="0"/>
+        <Property name="Snow" value="0"/>
+        <Property name="Toxic" value="0"/>
+        <Property name="Scorched" value="0"/>
+        <Property name="Radioactive" value="0"/>
+        <Property name="RedWeather" value="0"/>
+        <Property name="GreenWeather" value="0"/>
+        <Property name="BlueWeather" value="0"/>
+        <Property name="Swamp" value="0"/>
+        <Property name="Lava" value="0"/>
+        <Property name="Bubble" value="0"/>
+        <Property name="Weird" value="2"/>
+        <Property name="Fire" value="0"/>
+        <Property name="ClearCold" value="0"/>
+      </Property>
+    </Property>
+    <Property name="Red" value="GcWeatherWeightings.xml">
+      <Property name="WeatherWeightings">
+        <Property name="Clear" value="1"/>
+        <Property name="Dust" value="0"/>
+        <Property name="Humid" value="0"/>
+        <Property name="Snow" value="0"/>
+        <Property name="Toxic" value="0"/>
+        <Property name="Scorched" value="0"/>
+        <Property name="Radioactive" value="0"/>
+        <Property name="RedWeather" value="0"/>
+        <Property name="GreenWeather" value="0"/>
+        <Property name="BlueWeather" value="0"/>
+        <Property name="Swamp" value="0"/>
+        <Property name="Lava" value="0"/>
+        <Property name="Bubble" value="0"/>
+        <Property name="Weird" value="2"/>
+        <Property name="Fire" value="0"/>
+        <Property name="ClearCold" value="0"/>
+      </Property>
+    </Property>
+    <Property name="Purple" value="GcWeatherWeightings.xml">
+      <Property name="WeatherWeightings">
+        <Property name="Clear" value="1"/>
+        <Property name="Dust" value="0"/>
+        <Property name="Humid" value="0"/>
+        <Property name="Snow" value="0"/>
+        <Property name="Toxic" value="0"/>
+        <Property name="Scorched" value="0"/>
+        <Property name="Radioactive" value="0"/>
+        <Property name="RedWeather" value="0"/>
+        <Property name="GreenWeather" value="0"/>
+        <Property name="BlueWeather" value="0"/>
+        <Property name="Swamp" value="0"/>
+        <Property name="Lava" value="0"/>
+        <Property name="Bubble" value="0"/>
+        <Property name="Weird" value="2"/>
+        <Property name="Fire" value="0"/>
+        <Property name="ClearCold" value="0"/>
+      </Property>
+    </Property>
+  </Property>
+  <Property name="WeatherChangeTime" value="Vector2f.xml">
+    <Property name="x" value="0"/>
+    <Property name="y" value="0"/>
+  </Property>
+  <Property name="DarknessVariation" value="0.2"/>
+  <Property name="CloudSettings" value="GcBiomeCloudSettings.xml">
+    <Property name="MinCoverage" value="0.05"/>
+    <Property name="MaxCoverage" value="0.3"/>
+    <Property name="MinCoverageVariance" value="0"/>
+    <Property name="MaxCoverageVariance" value="0.2"/>
+    <Property name="MinCover" value="-0.6"/>
+    <Property name="MaxCover" value="0.6"/>
+    <Property name="MinVariance" value="0"/>
+    <Property name="MaxVariance" value="0.6"/>
+    <Property name="MinRateOfChange" value="0.05"/>
+    <Property name="MaxRateOfChange" value="1.25"/>
+    <Property name="MinRatio" value="1"/>
+    <Property name="MaxRatio" value="1"/>
+    <Property name="TendencyTowardsBeingCloudy" value="0.5"/>
+    <Property name="StormCloudTopColour" value="Colour.xml">
+      <Property name="R" value="0.05"/>
+      <Property name="G" value="0.05"/>
+      <Property name="B" value="0.05"/>
+      <Property name="A" value="1"/>
+    </Property>
+    <Property name="StormCloudBottomColour" value="Colour.xml">
+      <Property name="R" value="0.05"/>
+      <Property name="G" value="0.05"/>
+      <Property name="B" value="0.05"/>
+      <Property name="A" value="1"/>
+    </Property>
+  </Property>
+  <Property name="Terrain" value="GcTerrainControls.xml">
+    <Property name="NoiseLayers">
+      <Property name="Base" value="1"/>
+      <Property name="Hill" value="1"/>
+      <Property name="Mountain" value="1"/>
+      <Property name="Rock" value="1"/>
+      <Property name="UnderWater" value="0"/>
+      <Property name="Texture" value="0"/>
+      <Property name="Elevation" value="1"/>
+      <Property name="Continent" value="0"/>
+    </Property>
+    <Property name="GridLayers">
+      <Property name="Small" value="0.75"/>
+      <Property name="Large" value="0.75"/>
+      <Property name="Resources_Heridium" value="1"/>
+      <Property name="Resources_Iridium" value="1"/>
+      <Property name="Resources_Copper" value="1"/>
+      <Property name="Resources_Nickel" value="0"/>
+      <Property name="Resources_Aluminium" value="0"/>
+      <Property name="Resources_Gold" value="0"/>
+      <Property name="Resources_Emeril" value="0"/>
+    </Property>
+    <Property name="Features">
+      <Property name="River" value="1"/>
+      <Property name="Crater" value="1"/>
+      <Property name="Arches" value="1"/>
+      <Property name="ArchesSmall" value="1"/>
+      <Property name="Blobs" value="1"/>
+      <Property name="BlobsSmall" value="1"/>
+      <Property name="Substance" value="0"/>
+    </Property>
+    <Property name="Caves">
+      <Property name="Underground" value="1"/>
+    </Property>
+    <Property name="WaterActiveFrequency" value="0.3"/>
+    <Property name="HighWaterActiveFrequency" value="0"/>
+    <Property name="RockTileFrequency" value="0.25"/>
+    <Property name="SubstanceTileFrequency" value="0.25"/>
+    <Property name="ForceContinentalNoise" value="False"/>
+  </Property>
+  <Property name="FilterOptions">
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="Default"/>
+      </Property>
+      <Property name="Weight" value="1"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="HueShiftA"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="HueShiftB"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="HueShiftC"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="HueShiftD"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="Weird1"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="Weird2"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="Weird3"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="Weird4"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="Weird5"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="Weird6"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="Weird7"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="Weird8"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="NMSRetroA"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="NMSRetroB"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="NMSRetroC"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="NMSRetroD"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="NMSRetroE"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="NMSRetroF"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="NMSRetroG"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="SepiaExtreme"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="Solarise"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="TwoTone"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="ColourTouchB"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="ColourTouchC"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+    <Property value="GcScreenFilterOption.xml">
+      <Property name="Filter" value="GcScreenFilters.xml">
+        <Property name="ScreenFilter" value="WarmStripe"/>
+      </Property>
+      <Property name="Weight" value="0.01"/>
+    </Property>
+  </Property>
+  <Property name="FloraLifeLocID" value="RARITY_WEIRD"/>
+</Data>
