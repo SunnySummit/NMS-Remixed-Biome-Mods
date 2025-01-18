@@ -208,55 +208,28 @@
       <Property name="ChooseUsingLifeLevel" value="False"/>
       <Property name="Options">
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_233_LUSH.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_501_ROCKY_LUSH_HUGE_NOXIOUS_IRRADIATED.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_250_LUSH.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_502_ROCKY_LUSH_HUGE_NOXIOUS_IRRADIATED_LIVINGSHIP_WEIRD.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_284_LUSH.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_503_ROCKY_LUSH_HUGE_NOXIOUS_IRRADIATED.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_293_LUSH_WEIRD.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_504_ROCKY_LUSH_HUGE_NOXIOUS_IRRADIATED.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_300_LUSH.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_505_ROCKY_LUSH_HUGE_NOXIOUS_IRRADIATED.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_336_WEIRD_LUSH.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_506_ROCKY_LUSH_HUGE_NOXIOUS_LIVINGSHIP_WEIRD_BARREN.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_359_LUSH.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_507_ROCKY_LUSH_HUGE_NOXIOUS_WEIRD_BARREN.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_379_LUSH.MBIN"/>
-        </Property>
-        <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_393_LUSH_WEIRD.MBIN"/>
-        </Property>
-        <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_405_FLORAL.MBIN"/>
-        </Property>
-        <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_412_WEIRD_LUSH.MBIN"/>
-        </Property>
-        <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_413_WEIRD_LUSH.MBIN"/>
-        </Property>
-        <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_448_LUSH.MBIN"/>
-        </Property>
-        <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_472_LUSH.MBIN"/>
-        </Property>
-        <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_479_LUSH_WEIRD.MBIN"/>
-        </Property>
-        <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_480_LUSH.MBIN"/>
-        </Property>
-        <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_495_LUSH_FROZEN_LIVINGSHIP_WEIRD_TOXIC.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_508_ROCKY_LUSH_HUGE_IRRADIATED_TOXIC_NOXIOUS_INDUSTRIAL.MBIN"/>
         </Property>
       </Property>
     </Property>

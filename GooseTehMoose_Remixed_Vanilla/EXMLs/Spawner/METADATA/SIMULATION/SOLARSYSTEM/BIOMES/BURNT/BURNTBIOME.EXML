@@ -208,52 +208,49 @@
       <Property name="ChooseUsingLifeLevel" value="False"/>
       <Property name="Options">
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_60_BURNT.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_39_INDUSTRIAL_WEIRD_BURNT_RADIOACTIVE_LIVINGSHIP.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_70_BURNT.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_44_BURNT_LUSH_WEIRD.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_97_INDUSTRIAL_BURNT_FROZEN_NOXIOUS_WEIRD_TOXIC_SCORCHED.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_166_BURNT_LUSH_NOXIOUS.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_107_SWAMP_WEIRD_BURNT_LUSH.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_171_LIVINGSHIP_WEIRD_RAINFOREST_LUSH_NOXIOUS_BURNT.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_116_BURNT.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_198_NOXIOUS_BURNT_LUSH_BARREN_WEIRD.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_127_BURNT_LIVINGSHIP_WEIRD_INDUSTRIAL.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_230_LUSH_BURNT_NOXIOUS.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_149_BURNT.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_280_WEIRD_LUSH_BURNT_NOXIOUS_ALPINE.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_226_IRRADIATED_WEIRD_HUGE_FROZEN_LIVINGSHIP_BURNT.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_310_BURNT_LUSH_TOXIC_NOXIOUS.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_276_WEIRD_BURNT_INDUSTRIAL.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_351_BURNT_LUSH.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_327_BURNT.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_356_BURNT_NOXIOUS_LUSH.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_343_BURNT.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_367_LIVINGSHIP_WEIRD_SCORCHED_LUSH_BURNT.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_356_FROZEN_BARREN_LIVINGSHIP_WEIRD_BURNT.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_372_RAINFOREST_LUSH_BURNT_NEVADA_INDUSTRIAL_LAVA.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_375_BURNT.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_391_HUGE_FROZEN_LIVINGSHIP_WEIRD_LUSH_SWAMP_SCORCHED_BARREN_BURNT.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_454_BURNT.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_427_BURNT_LUSH_NOXIOUS.MBIN"/>
         </Property>
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_459_BURNT.MBIN"/>
-        </Property>
-        <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/PLUMGEN/BIOME_475_BURNT.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_472_BURNT_NOXIOUS_SCORCHED_LUSH.MBIN"/>
         </Property>
       </Property>
     </Property>
