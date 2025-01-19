@@ -208,28 +208,7 @@
       <Property name="ChooseUsingLifeLevel" value="False"/>
       <Property name="Options">
         <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_68_BARREN_DESOLATE.MBIN"/>
-        </Property>
-        <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_99_NOXIOUS_DESOLATE.MBIN"/>
-        </Property>
-        <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_115_FROZEN_DESOLATE.MBIN"/>
-        </Property>
-        <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_334_DESOLATE_NOXIOUS.MBIN"/>
-        </Property>
-        <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_401_DESOLATE_NOXIOUS_SCORCHED.MBIN"/>
-        </Property>
-        <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_430_TOXIC_HUGE_LIVINGSHIP_WEIRD_DESOLATE_RAINFOREST_LUSH_BARREN.MBIN"/>
-        </Property>
-        <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_470_FROZEN_LIVINGSHIP_WEIRD_HUGE_DESOLATE_NOXIOUS_INDUSTRIAL.MBIN"/>
-        </Property>
-        <Property value="VariableSizeString.xml">
-          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_491_DESOLATE_NOXIOUS.MBIN"/>
+          <Property name="Value" value="METADATA/SIMULATION/SOLARSYSTEM/BIOMES/RVANILLA/BIOME_328_DESOLATE_NOXIOUS.MBIN"/>
         </Property>
       </Property>
     </Property>
